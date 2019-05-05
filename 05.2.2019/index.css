@@ -1,0 +1,131 @@
+.main-nav li:last-child .btn1{
+    background: #ed305d;
+    border-radius: 30px;
+    color: white !important;
+
+}
+.main-nav li a{
+    font-weight: bold;
+    color: white !important;
+
+}
+#header{
+    position: fixed;
+top:0;
+left: 0;
+right:0;
+z-index: 5;
+}
+#home{
+    position: relative;
+    height: 750px;
+    background: #ffc10f;
+}
+.default-btn{
+    color: white;
+    padding: 0.5px 35px;
+    background: black;
+    display:inline-block;
+    height: 47px;
+}
+h1{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    font-size: 55px;
+    margin: 0 0 10px;
+    color: #fff;
+    letter-spacing: -0.05em;
+}
+.sekil{
+margin-top: 60px;
+}
+.main-nav li{
+    padding: 10px;
+}
+.promo{
+    padding: 80px 0;
+}
+.container{
+    max-width: width 1140px;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container3{
+    background: #ffc10f;
+padding: 0;
+width: 100%;
+position: relative;
+padding: 0;
+overflow: hidden;
+
+}
+.content-left{
+    background-color: #ed305d;
+    min-height: 600px;
+    position: relative;
+
+}
+.content-left h1{
+    transform: rotate(-90deg);
+    color: white;
+    font-size: 70px;
+    display: block;
+    margin: 0px 0 0 -137px;
+    
+    text-transform: uppercase;
+}
+.align-items-center{
+    align-items: center!important;
+}
+.image{
+    position: absolute;
+       right: -120px;
+       top:0;
+    background-image: url(4.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    width: 573px;
+    height: 907px;
+}
+
+.bashliq h2{
+    z-index: 81;
+    text-transform: uppercase;
+position: relative;
+}
+.blog-section{
+    background-color: #eef3f9;
+    padding: 80px 0;
+    position: relative;
+
+}.bashliq h2::before{
+    content: "";
+    position: absolute;
+    background-color: #ffc10f;
+    width: 100px;
+    height: 10px;
+    left: 47%;
+    background-position: center center;
+    bottom: 6px;
+    z-index: -1;
+}
+.shekil-alti{
+    position: relative;
+    top:-30px;
+    background-color: #ffc10f;
+    padding: 10px 15px;
+    display: inline-block;
+
+}
+.fafa span{
+    color: white
+}
+.calendar{
+    color: white;
+}
